@@ -1,0 +1,61 @@
+.camel{
+    background-color: orange;
+    border: 5px solid black;
+    border-color: black;
+}
+.chameleon{
+    background-color: greenyellow;
+    border: 5px solid black;
+    border-color: black;
+}
+.cicada{
+    background-color:orange;
+    border: 5px solid black;
+    border-color: black;
+}
+.panda{
+    background-color:grey;
+    border: 5px solid black;
+    border-color: black;
+}
+.pigeon{
+    background-color:lightblue;
+    border: 5px solid black;
+    border-color: black;
+}
+.teddy{
+    background-color: lightsalmon;
+    border: 5px solid black;
+    border-color: black;
+}
+h3{
+    color:white;
+    font-style: italic;
+}
+.top{
+    text-align: center;
+    color: blue;
+    background-color:rgb(12, 199, 12);
+    border: thick;
+    border-color: black;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+.origami1{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20;
+    text-align: center;
+    font-weight: 300;
+}
+.origami2{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20;
+    text-align: center;
+    font-weight: 300;
+}
